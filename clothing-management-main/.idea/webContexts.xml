@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/Category.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/addEmployee.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/category.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/clearDifference.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/editEmployee.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/forgot.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/homepage.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/include/sidebar.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/include" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp/po-list.jsp" value="file://$PROJECT_DIR$/ClothingManagement/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
